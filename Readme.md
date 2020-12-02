@@ -9,3 +9,5 @@ Add node.js backend.
 Updated the node backend.
 
 Build the seed files.
+
+Add necessary dependencies.
