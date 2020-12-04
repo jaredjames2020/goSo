@@ -13,3 +13,5 @@ Build the seed files.
 Add necessary dependencies.
 
 Exhausted options.
+
+Algortihms today. HackerRank.
