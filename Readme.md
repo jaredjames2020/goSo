@@ -15,3 +15,5 @@ Add necessary dependencies.
 Exhausted options.
 
 Algortihms today. HackerRank.
+
+FI deep dive.
