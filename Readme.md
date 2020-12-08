@@ -19,3 +19,5 @@ Algortihms today. HackerRank.
 FI deep dive.
 
 HackerRank algo's
+
+FI YouTube review.
